@@ -1,12 +1,14 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I am an Industrial Engineering student at Beykent University with a keen interest in finance, blockchain technology, programming languages, and artificial intelligence. Passionate about creating innovative solutions and problem-solving, my current skills include Python, C#, Solidity. I am actively learning and striving to advance my expertise, particularly in AI.",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "Python",
+    "C#",
+    "Solidity",
+    "AI",
+    "Finance",
+    "Blockchain",
+    "Problem-solving"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "Driven by a passion for innovation and problem-solving, I am committed to continuously learning and enhancing my skills. My goal is to contribute to the tech industry by developing web applications, smart contracts, databased applications, and machine learning programs. I have a growing interest in JavaScript, Rust, and Flutter."
 }
+
